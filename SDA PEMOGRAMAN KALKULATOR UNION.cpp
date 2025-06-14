@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+using namespace 
 
 struct Kalkulator {
     double angka1;
